@@ -1,4 +1,6 @@
-1.Kaggle_music_recommendation:
+小白的升级打怪路程，还在进行中...
+
+1. Kaggle_music_recommendation:
 
 这是kaggle在2018年的一个音乐推荐系统比赛， WSDM - KKBox's Music Recommendation Challenge
 比赛链接：https://www.kaggle.com/c/kkbox-music-recommendation-challenge
